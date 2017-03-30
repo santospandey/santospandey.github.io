@@ -1,0 +1,250 @@
+.mainWrapper{
+	width:100%;
+}
+
+.headerWrapper{
+	padding-top: 47px;
+}
+
+.servicesWrapper{
+	width:100%;	
+}
+
+.servicesContainer{
+	max-width:75em;	
+	margin:0px auto;
+	padding-top: 100px;
+	padding-bottom: 128px;	
+}
+
+.leftServicesContainer{
+	width: 50%;	
+	float: left;
+}
+
+.rightServicesContainer{
+	width: 50%;	
+	float: left;
+}
+
+.onlineBookingContainer{
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+
+.menFashionsContainer{
+	width: 50%;
+	float: right;
+	text-align: center;
+}
+
+.ladyFashionsContainer{
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+
+.creativeStylesContainer{
+	width: 50%;
+	float: right;
+	text-align: center;
+}
+
+.userStatusWrapper{
+	width:100%;	
+	background-image: url("../images/usrstatusbg.png");
+	background-repeat: repeat;
+}
+
+.userStatus{
+	max-width:75em;	
+	margin:auto;	
+	background-image: url("../images/usrstatusbg.png");
+}
+
+.leftWrapper{
+	width: 50%;
+	float: left;	
+}
+
+.rightWrapper{
+	width: 50%;	
+	float: left;	
+}
+
+.general{
+	width: 50%;	
+	float: left;
+}
+
+.general .image1{			
+	padding-top: 83px;
+}
+
+.general .image1 img{
+	display: block;
+	margin: 0px auto;
+}
+
+.counter{		
+	padding-top: 50px;	
+	color:orange;
+	font-size: 48px;
+	line-height: 36px;
+	font-family: lato;
+	text-align: center;	
+}
+
+.general .image2{
+	padding-top: 14px;
+}
+
+.general .image2 img{
+	display: block;
+	margin: 0px auto;
+}
+
+.general .text{		
+	padding-top: 14px;
+	font-size: 24px;
+	text-align: center;
+	font-family: Vollkorn;
+	color:white;
+	line-height: 24px;
+	padding-bottom: 76px;
+}
+
+.downloads{
+
+}
+
+.rating{	
+}
+
+.customers{	
+}
+
+.comments{	
+}
+
+
+.onlineSupportWrapper{
+	background-image: url("../images/pic3.png");
+	background-size: 100% 100%;
+}
+
+.onlineSupport{
+	max-width:75em;	
+	margin:auto;
+}
+
+.onlineSupport .header{
+	width: 100%;
+	padding-top:89px;
+	text-align: center;			
+}
+
+.headerText{
+	width:26.66666%;
+	margin: 0px auto;	
+	font-size: 36px;
+	font-weight: bold;
+	color:white;	
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;	
+	display: inline-block;
+}
+
+.headerImage{
+	padding-top: 18px;	
+}
+
+.headerImage img{
+	display: block;
+	margin: 0px auto;
+}
+
+.onlineSupport .leftSideContainer{	
+	width: 50%;
+	padding-bottom: 67px;
+	float: left;	
+}
+
+.onlineSupport .bodyHeading{
+	width: 100%;
+	padding-top: 50px;
+	padding-left: 15px;
+	font-weight: bold;
+	font-size: 18px;
+	font-family: lato;
+	color:white;
+	line-height: 18px;
+}
+
+.onlineSupport .whiteBar{
+	width: 100%;
+	padding-top: 14px;	
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+
+.onlineSupport .whiteBar img{
+	display: block;
+	float: left;
+}
+
+.onlineSupport p{
+	width: 100%;
+	font-size: 15px;
+	font-family: Vollkorn;
+	color:white;
+	padding-bottom: 20px;
+	padding-left: 15px;	
+}
+
+.onlineSupport .rightSideContainer{	
+	width: 50%;
+	padding-bottom: 67px;
+	float: left;
+}
+
+.contactusWrapper{
+	width:100%;	
+	position: relative;
+}
+
+.contactus{
+	max-width:75em;	
+	margin:0px auto;	
+}
+
+.contactHeader{
+	padding-top:100px;	
+	padding-bottom: 48px;	
+}
+
+.contactLeft{	
+	width:50%;
+	padding-top: 95px;
+	padding-bottom: 96px;
+	float:left;
+}
+
+.contactRight{
+	width: 50%;
+	float: left;
+	padding-bottom: 96px;
+}
+
+.footerWrapper{
+	width: 100%;
+	background-image: url("../images/usrstatusbg.png");
+}
+
+.footerContainer{
+	max-width:75em;
+	margin: auto;
+	text-align: center;
+}
+

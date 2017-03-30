@@ -1,0 +1,122 @@
+@media only screen and (max-width: 768px) {
+	
+	.homePage{
+		visibility: none;
+		display: none;
+	}
+
+	.bullet{
+		display: none;
+	}
+
+	.leftServicesContainer{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+	}	
+
+	.rightServicesContainer{
+		float: left;
+		clear:both;
+		min-width: 100%;	
+		padding:10px 0px;	
+	} 
+
+	.leftWrapper{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+	}
+
+	.rightWrapper{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+		clear: both;
+	}
+
+	.contactLeft{
+		float: left;
+		padding:20px 0px;
+	}
+
+	.contactRight{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+		clear: both;
+	}
+
+	.leftSideContainer{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+	}	
+
+	.rightSideContainer{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+	}
+	
+	.bodyHeading{
+		width:100%;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+			
+	.leftServicesContainer{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+	}	
+
+	.rightServicesContainer{
+		float: left;
+		clear:both;
+		min-width: 100%;	
+		padding:10px 0px;	
+	} 
+
+	.leftWrapper{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+	}
+
+	.rightWrapper{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+		clear: both;
+	}
+
+	.contactLeft{
+		float: left;
+		padding:20px 0px;
+	}
+
+	.contactRight{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+		clear: both;
+	}
+
+	.leftSideContainer{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+	}	
+
+	.rightSideContainer{
+		float: left;
+		min-width: 100%;
+		padding:10px 0px;
+	}
+	
+	.bodyHeading{
+		width:100%;
+	}
+}

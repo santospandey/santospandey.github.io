@@ -1,0 +1,30 @@
+.headerMenu{			
+	float: right;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: lato;	
+	line-height: 46px;
+}
+
+.headerMenu ul{
+	list-style: none;
+}
+
+.headerMenu ul li{
+	float: left;
+	display: block;	
+}
+
+.headerMenu ul li a{
+	text-decoration: none;
+	padding: 7px 18px;	
+	color:white;		
+	margin-right: 2px;	
+	margin-left: 2px;	
+}
+
+.headerMenu ul li a:hover{
+	border:2px solid white;	
+	margin-right: 0px;
+	margin-left: 0px;
+}
